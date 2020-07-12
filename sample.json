@@ -1,0 +1,8 @@
+{
+  "name": "int8 Inference",
+  "categories": ["Toolkit/Intel® AI Analytics Toolkit/TensorFlow"],
+  "description": "This code example shows you how to run low precision inference on Resnet50, ResNet101 and InceptionV4 with TensorFlow using Intel's pretrained int8 model",
+  "builder": ["cli"],
+  "languages": [{"python":{}}],
+  "os":["linux"]
+}
